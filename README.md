@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Anurag Sharma
-**A passionate Full Stack Developer ||  || Kafka Admin from India**
+**A passionate Full Stack Developer **
 
 Email Me 👉 ✉️ **anuragsharma4213@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
