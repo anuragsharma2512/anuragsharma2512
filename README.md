@@ -1,7 +1,11 @@
+![image](https://github.com/user-attachments/assets/bb543c63-387e-4531-97ba-06a8d7edf34b)
+
 # 💫 Hi 👋, I'm Anurag Sharma
 **A passionate Full Stack Developer **
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragsharma2512&label=Profile%20views&color=0e75b6&style=flat" alt="shxrox" /> </p>
 
-Email Me 👉 ✉️ **anuragsharma4213@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 
 - 🔭 **I’m currently working on:** Hireloop project(solution for college students for their placements)
 - 🌱 **I’m currently learning:** AI/ML 
@@ -9,6 +13,8 @@ Email Me 👉 ✉️ **anuragsharma4213@gmail.com** For Collaboration/Project or
 - 📫 **How to reach me:** anuragsharma4213@gmail.com
 - 😄 **Pronouns:** Anurag
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-sharma-63xxx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragsharma4213@gmail.com) 
